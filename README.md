@@ -1,2 +1,2 @@
-# yt-deluxe-scraper
-Scraper for music.youtube.com, used as part of the yt-deluxe server
+# MusicBackend
+Scraper for music.youtube.com, used to serve youtube.com URLs to an alternative frontend
